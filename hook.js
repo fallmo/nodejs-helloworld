@@ -1,1 +1,1 @@
-echo "hook executed successfully"
+console.log("Hook executed")
